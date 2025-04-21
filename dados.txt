@@ -1,11 +1,14 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Bárbara
+-Profissão: QA Jr
+-Cidade: Contagem - MG
+-O que faz nas horas vaga: Ando de moto e participo de um grupo de motociclismo feminino
+-Feedback sobre o curso Qualidade de Software: Gosto bastante das aulas, estava sem conseguir 
+fazer o curso nos últimos tempos devido a mudanca de rotima e senti muita falta. Consegui meu
+primeiro emprego gracas ao curso EBAC
+-Feedback sobre a plataforma de estudo da EBAC: Muito fluída e gosto muito da funcionalidade
+de acrescentar notas, através de prints do vídeo.
 
 Obrigado!!!
 
